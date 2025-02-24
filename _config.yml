@@ -22,7 +22,7 @@ title: Sesha Charla
 email: scharla@purdue.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my personal website showcasing my projects and professional experience.
-baseurl: "/about" # the subpath of your site, e.g. /blog
+baseurl: ""  # the subpath of your site, e.g. /blog
 url: "https://seshacharla.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  SeshaCharla
 linkedin_username: scharla
