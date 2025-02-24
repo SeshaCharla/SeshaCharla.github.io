@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: _pages/about/
 ---
 
 I am a PhD candidate in Mechanical Engineering at Purdue University, specializing in estimation theory, adaptive robust control, and fault diagnosis for nonlinear systems under uncertainty. My research and industry experience span vehicle dynamics, multivariable control, system identification, and computer vision-based estimation.
