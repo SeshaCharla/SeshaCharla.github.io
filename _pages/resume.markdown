@@ -5,7 +5,7 @@ permalink: /resume/
 ---
 
 ## View My Resume
-<iframe src="/assets/resume.pdf" width="100%" height="600px"></iframe>
+<iframe src="/assets/SeshaCharla_resume.pdf" width="100%" height="600px"></iframe>
 
 ## Download My Resume
-📄 **[Download Resume (PDF)](/assets/resume.pdf)**
+📄 **[Download Resume (PDF)](/assets/SeshaCharla_resume.pdf)**
