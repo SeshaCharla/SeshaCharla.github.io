@@ -35,7 +35,6 @@ plugins:
 
 include:
   - _pages
-  - index.markdown
 
 exclude:
   - README.md
