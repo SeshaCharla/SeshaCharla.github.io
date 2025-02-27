@@ -36,6 +36,12 @@ plugins:
 include:
   - _pages
 
+defaults:
+  - scope:
+      path: "_pages"
+    values:
+      permalink: /:basename/
+
 exclude:
   - README.md
 
