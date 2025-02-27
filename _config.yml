@@ -34,7 +34,7 @@ plugins:
   - jekyll-seo-tag
 
 include:
-  - _pages/
+  - _pages/*
 
 exclude:
   - README.md
