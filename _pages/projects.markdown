@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Professional Experince and Projects
+title: Experince & Projects
 permalink: /Experience/
 ---
 
