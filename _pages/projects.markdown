@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Experince & Projects
-permalink: /Experience/
+permalink: /projects/
 ---
 
 
