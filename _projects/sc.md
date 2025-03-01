@@ -8,7 +8,7 @@ start_date: 2023-05-15
 end_date: 2023-08-11
 ---
 
-# Fat Estimation from Vision Data - SC Solutions
+# Fat Estimation from Vision Data
 **Project Duration:** {{ page.start_date | date: "%B %Y" }} – {{ page.end_date | date: "%B %Y" }}
 
 <img src="/assets/SC/fat_est.png" width="800">
