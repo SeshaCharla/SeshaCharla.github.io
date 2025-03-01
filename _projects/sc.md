@@ -29,7 +29,7 @@ During my time as a **Research Engineer Intern** at **SC Solutions**, I worked o
 
 ## Demonstration
 <video width="560" height="315" controls>
-  <source src="/assets/videos/speed_run.mp4" type="video/mp4">
+  <source src="/assets/SC/speed_run.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
