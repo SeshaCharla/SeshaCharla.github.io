@@ -24,7 +24,7 @@ During my internship at **Virgin Hyperloop**, I worked on the **Cargo Pilot Proj
 
 ## Technologies Used
 - MATLAB/Simulink (Data Dictionaries)
-- Using look-up tables and curvefitting to approximate highly nonlinear dynamics under restrictive state and frequency constraints.
+- Using look-up tables and curve fitting to approximate highly nonlinear dynamics under restrictive state and frequency constraints.
 - Linear Robust Control and MIMO systems analysis
 - Electromagnetic Levitation Systems
 - FOC control of PMSM (phase angle estimation problem)
