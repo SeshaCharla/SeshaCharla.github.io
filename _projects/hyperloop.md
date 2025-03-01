@@ -2,7 +2,7 @@
 layout: page
 title: "Motion Control Internship - Virgin Hyperloop"
 summary: "Designed supervisory control strategies to optimize levitation and guidance systems for cargo pilot project."
-image: "/assets/images/motion_control.png"  # Add a relevant image if available
+image: "/assets/hyperloop/hyperloop.png"  # Add a relevant image if available
 permalink: /projects/motion-control-internship/
 ---
 
@@ -20,11 +20,11 @@ During my internship at **Virgin Hyperloop**, I worked on the **Cargo Pilot Proj
 - Created robust stability and performance models to analyze **suspension parameters**.
 
 ## View Full Presentation
-📄 **[Download Presentation (PDF)](/assets/projects/MotionControlInternFinalPresentation_Sesha.pdf)**
-<iframe src="/assets/projects/MotionControlInternFinalPresentation_Sesha.pdf" width="100%" height="600px"></iframe>
+<iframe src="/assets/hyperloop/MotionControlInternFinalPresentation_Sesha.pdf" width="100%" height="600px"></iframe>
 
 ## Technologies Used
-- MATLAB/Simulink
-- Control Systems Engineering
+- MATLAB/Simulink (Data Dictionaries)
+- Using look-up tables and curvefitting to approximate highly nonlinear dynamics under restrictive state and frequency constraints.
+- Linear Robust Control and MIMO systems analysis
 - Electromagnetic Levitation Systems
 - FOC control of PMSM (phase angle estimation problem)
