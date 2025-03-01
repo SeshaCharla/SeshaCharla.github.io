@@ -4,6 +4,8 @@ title: "Motion Control Internship - Virgin Hyperloop"
 summary: "Designed supervisory control strategies to optimize levitation and guidance systems for cargo pilot project."
 image: "/assets/hyperloop/hyperloop.png"  # Add a relevant image if available
 permalink: /projects/motion-control-internship/
+start_date: 2022-06-8  # Start month & year
+end_date: 2022-08-15  # End month & year
 ---
 
 # Motion Control Internship - Virgin Hyperloop
