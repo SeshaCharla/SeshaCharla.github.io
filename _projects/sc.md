@@ -2,7 +2,7 @@
 layout: page
 title: "Research Engineer - Estimation and Control Systems - SC Solutions (Internship)"
 summary: "Developed an estimation framework for lean-to-fat ratio in meat using computer vision and nonlinear filtering techniques."
-image: "/assets/images/fat_estimation.png"  # Ensure this image exists or remove this line
+image: "/assets/SC/fat_est.png"  # Ensure this image exists or remove this line
 permalink: /projects/sc-solutions-fat-estimation/
 start_date: 2023-05-15
 end_date: 2023-08-11
