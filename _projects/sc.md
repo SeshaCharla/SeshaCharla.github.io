@@ -16,11 +16,11 @@ end_date: 2023-08-11
 ## Overview
 During my time as a **Research Engineer Intern** at **SC Solutions**, I worked on a **USDA-funded project** focused on **automating fat estimation in meat processing**. The goal was to replace manual classification methods with a **computer vision-based approach** for determining the lean-to-fat (LTF) ratio in meat cuts.
 
-### **Key Contributions**
-- **Developed an estimation framework** to classify meat based on LTF ratios using **image processing and statistical modeling**.
-- **Implemented computer vision techniques** for fat and lean segmentation using **RGB and LAB color spaces**.
-- **Built a C++ image processing pipeline** for real-time estimation.
-- **Optimized estimation accuracy** by correlating surface-level fat patterns with full-volume fat distribution.
+## Key Contributions
+- Developed an estimation framework to classify meat based on LTF ratios using image processing and statistical modeling.
+- Implemented computer vision techniques for fat and lean segmentation using RGB and LAB color spaces.
+- Built a C++ image processing pipeline for real-time estimation.
+- Optimized estimation accuracy by correlating surface-level fat patterns with full-volume fat distribution.
 
 ## Key Results
 - Achieved a **feasible estimation model** for LTF classification.
@@ -29,8 +29,8 @@ During my time as a **Research Engineer Intern** at **SC Solutions**, I worked o
 
 
 ## Technologies Used
-🔹 **Computer Vision (OpenCV, Image Processing)**
-🔹 **Machine Learning (CNNs using PyTorch)**
-🔹 **C++ (CMake, OpenCV, Pybind11)**
+- Computer Vision (OpenCV, Image Processing)
+- Machine Learning (CNNs using PyTorch)
+- C++ (CMake, OpenCV, Pybind11)
 
 ---
