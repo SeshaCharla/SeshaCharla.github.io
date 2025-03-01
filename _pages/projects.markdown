@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Experince & Projects
+title: Work Experience
 permalink: /projects/
 ---
 
