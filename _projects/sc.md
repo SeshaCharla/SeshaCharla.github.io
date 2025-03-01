@@ -28,7 +28,10 @@ During my time as a **Research Engineer Intern** at **SC Solutions**, I worked o
 - Enabled **automated fat estimation**, for improving consistency.
 
 ## Demonstration
-<iframe width="560" height="315" src="https://youtu.be/IRnn5K_WUp8" frameborder="0" allowfullscreen></iframe>
+<video width="560" height="315" controls>
+  <source src="/assets/videos/speed_run.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 
 
