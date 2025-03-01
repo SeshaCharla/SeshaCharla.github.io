@@ -5,12 +5,13 @@ permalink: /projects/
 ---
 
 Below are some of my projects. Click on each one to see more details.
+---
 
 {% for project in site.projects %}
 
 ## [{{ project.title }}]({{ project.url }})
-<br>
 **Duration:** {{ project.start_date | date: "%B %Y" }} – {{ project.end_date | date: "%B %Y" }}
+
 <br>
 <img src="{{ project.image }}" alt="{{ project.title }}" width="300">
 <br>

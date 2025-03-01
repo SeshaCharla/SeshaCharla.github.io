@@ -2,13 +2,11 @@
 layout: page
 title: "Motion Control Internship - Virgin Hyperloop"
 summary: "Designed supervisory control strategies to optimize levitation and guidance systems for cargo pilot project."
-image: "/assets/hyperloop/hyperloop.png"  # Add a relevant image if available
+image: "/assets/hyperloop/crop-XP-2-5.png"  # Add a relevant image if available
 permalink: /projects/motion-control-internship/
 start_date: 2022-06-8  # Start month & year
 end_date: 2022-08-15  # End month & year
 ---
-
-# Motion Control Internship - Virgin Hyperloop
 
 ## Overview
 During my internship at **Virgin Hyperloop**, I worked on the **Cargo Pilot Project**, focusing on **levitation and guidance control**. My contributions included:
@@ -21,7 +19,7 @@ During my internship at **Virgin Hyperloop**, I worked on the **Cargo Pilot Proj
 - Demonstrated limitations of **linear control strategies** for the system.
 - Created robust stability and performance models to analyze **suspension parameters**.
 
-## View Full Presentation
+## Full Presentation
 <iframe src="/assets/hyperloop/MotionControlInternFinalPresentation_Sesha.pdf" width="100%" height="600px"></iframe>
 
 ## Technologies Used
