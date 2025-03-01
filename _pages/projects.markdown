@@ -10,7 +10,7 @@ permalink: /projects/
 **Duration:** {{ project.start_date | date: "%B %Y" }} – {{ project.end_date | date: "%B %Y" }}
 
 <br>
-<img src="{{ project.image }}" alt="{{ project.title }}" width="300">
+<img src="{{ project.image }}" alt="{{ project.title }}" width="500">
 <br>
 {{ project.summary }}
 
