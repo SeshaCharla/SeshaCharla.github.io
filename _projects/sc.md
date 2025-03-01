@@ -11,6 +11,8 @@ end_date: 2023-08-11
 # Fat Estimation from Vision Data - SC Solutions
 **Project Duration:** {{ page.start_date | date: "%B %Y" }} – {{ page.end_date | date: "%B %Y" }}
 
+<img src="/assets/SC/fat_est.png" width="800">
+
 ## Overview
 During my time as a **Research Engineer Intern** at **SC Solutions**, I worked on a **USDA-funded project** focused on **automating fat estimation in meat processing**. The goal was to replace manual classification methods with a **computer vision-based approach** for determining the lean-to-fat (LTF) ratio in meat cuts.
 
