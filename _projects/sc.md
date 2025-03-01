@@ -27,6 +27,12 @@ During my time as a **Research Engineer Intern** at **SC Solutions**, I worked o
 - Developed a **scalable C++ framework** for processing **large video datasets** efficiently.
 - Enabled **automated fat estimation**, for improving consistency.
 
+## Demonstration
+<video width="560" height="315" controls>
+  <source src="/assets/SC/speed_run.mkv" type="video/x-matroska">
+  Your browser does not support the video tag.
+</video>
+
 
 ## Technologies Used
 - Computer Vision (OpenCV, Image Processing)
