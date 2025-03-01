@@ -15,9 +15,9 @@ During my internship at **Virgin Hyperloop**, I worked on the **Cargo Pilot Proj
 - Developing a **MIMO model** for the guidance bogie engine assembly and analyzing its robust stability.
 
 ## Key Results
-- Improved **EM engine efficiency** through control optimizations.
-- Demonstrated limitations of **linear control strategies** for the system.
-- Created robust stability and performance models to analyze **suspension parameters**.
+- Improved **EM engine efficiency** through control optimizations and introduction of supervisory control.
+- Demonstrated limitations of **linear control strategies** for the EM engine control system.
+- Created robust stability and performance models to analyze effects of **suspension parameters**.
 
 ## Full Presentation
 <iframe src="/assets/hyperloop/MotionControlInternFinalPresentation_Sesha.pdf" width="100%" height="600px"></iframe>
