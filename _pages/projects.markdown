@@ -12,9 +12,13 @@ permalink: /projects/
 **Location:** {{ page.location }}
 
 
+{% if project.image %}
 <br>
+
 <img src="{{ project.image }}" alt="{{ project.title }}" width="700">
+
 <br>
+{% endif %}
 
 {{ project.summary }}
 

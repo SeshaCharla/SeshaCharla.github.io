@@ -2,7 +2,7 @@
 layout: page
 title: "Test Instrumentation and Controls Engineer - ISRO"
 summary: "Led thermal instrumentation and control for satellite systems, including Chandrayaan-2, optimizing testing workflows and automation."
-image: "/assets/images/isro_project.png"  # Ensure this image exists or remove this line
+# image: "/assets/images/isro_project.png"  # Ensure this image exists or remove this line
 permalink: /projects/isro-experience/
 start_date: 2016-07-01
 end_date: 2019-07-01
