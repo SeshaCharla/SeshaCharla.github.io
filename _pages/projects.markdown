@@ -13,7 +13,7 @@ permalink: /projects/
 
 
 <br>
-<img src="{{ project.image }}" alt="{{ project.title }}" width="800">
+<img src="{{ project.image }}" alt="{{ project.title }}" width="700">
 <br>
 
 {{ project.summary }}
