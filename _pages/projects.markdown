@@ -8,6 +8,8 @@ permalink: /projects/
 
 ## [{{ project.title }}]({{ project.url }})
 **Duration:** {{ project.start_date | date: "%B %Y" }} – {{ project.end_date | date: "%B %Y" }}
+**Location:** {{ page.location }}
+
 <br>
 <img src="{{ project.image }}" alt="{{ project.title }}" width="800">
 <br>

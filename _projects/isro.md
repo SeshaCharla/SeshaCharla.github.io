@@ -13,7 +13,7 @@ location: Bengaluru, India
 # Thermal Systems Group
 # U.R. Rao Satellite Center, Indian Space Research Organization
 
- **Work Duration:** {{ page.start_date | date: "%B %Y" }} – {{ page.end_date | date: "%B %Y" }}
+ **Duration:** {{ page.start_date | date: "%B %Y" }} – {{ page.end_date | date: "%B %Y" }}
  **Location:** {{ page.location }}
 
 ## Overview
