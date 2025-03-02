@@ -6,14 +6,15 @@ image: "/assets/images/isro_project.png"  # Ensure this image exists or remove t
 permalink: /projects/isro-experience/
 start_date: 2016-07-01
 end_date: 2019-07-01
+location: Bengaluru, India
 ---
 
 # Test Instrumentation and Controls Engineer
 # Thermal Systems Group
 # U.R. Rao Satellite Center, Indian Space Research Organization
-**Bengaluru, India**
 
  **Work Duration:** {{ page.start_date | date: "%B %Y" }} – {{ page.end_date | date: "%B %Y" }}
+ **Location:** {{ page.location }}
 
 ## Overview
 As a **Scientist/Engineer 'SC'** at the **Indian Space Research Organization (ISRO)**, I played a key role in **thermal instrumentation and control** for various satellite systems, including **Chandrayaan-2**. My work spanned **sensor integration, automation, and real-time data acquisition** to optimize satellite testing workflows.

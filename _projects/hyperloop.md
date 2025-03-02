@@ -6,7 +6,12 @@ image: "/assets/hyperloop/hyperloop.png"  # Add a relevant image if available
 permalink: /projects/motion-control-internship/
 start_date: 2022-06-8  # Start month & year
 end_date: 2022-08-15  # End month & year
+location: Los Angeles, California
 ---
+
+
+**Duration:** {{ page.start_date | date: "%B %Y" }} – {{ page.end_date | date: "%B %Y" }}
+**Location:** {{ page.location }}
 
 ## Overview
 During my internship at **Virgin Hyperloop**, I worked on the **Cargo Pilot Project**, focusing on **levitation and guidance control**. My contributions included:
