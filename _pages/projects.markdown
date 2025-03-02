@@ -23,4 +23,8 @@ permalink: /projects/
 {{ project.summary }}
 
 ---
+
+<br>
+
+
 {% endfor %}
