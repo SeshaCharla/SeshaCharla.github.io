@@ -9,7 +9,7 @@ permalink: /projects/
 ## [{{ project.title }}]({{ project.url }})
 **Duration:** {{ project.start_date | date: "%B %Y" }} – {{ project.end_date | date: "%B %Y" }}
 
-**Location:** {{ page.location }}
+**Location:** {{ project.location }}
 
 
 {% if project.image %}
