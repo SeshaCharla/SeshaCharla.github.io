@@ -12,6 +12,7 @@ location: Portland, Oregon
 # Fat Estimation from Vision Data
 
 **Duration:** {{ page.start_date | date: "%B %Y" }} – {{ page.end_date | date: "%B %Y" }}
+
 **Location:** {{ page.location }}
 
 

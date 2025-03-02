@@ -14,6 +14,7 @@ location: Bengaluru, India
 # U.R. Rao Satellite Center, Indian Space Research Organization
 
  **Duration:** {{ page.start_date | date: "%B %Y" }} – {{ page.end_date | date: "%B %Y" }}
+
  **Location:** {{ page.location }}
 
 ## Overview

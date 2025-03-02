@@ -11,6 +11,7 @@ permalink: /projects/
 
 **Location:** {{ page.location }}
 
+
 <br>
 <img src="{{ project.image }}" alt="{{ project.title }}" width="800">
 <br>

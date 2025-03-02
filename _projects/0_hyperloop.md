@@ -9,8 +9,8 @@ end_date: 2022-08-15  # End month & year
 location: Los Angeles, California
 ---
 
-
 **Duration:** {{ page.start_date | date: "%B %Y" }} – {{ page.end_date | date: "%B %Y" }}
+
 **Location:** {{ page.location }}
 
 ## Overview
