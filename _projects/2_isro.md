@@ -18,23 +18,19 @@ location: Bengaluru, India
  **Location:** {{ page.location }}
 
 ## Overview
-As a **Scientist/Engineer 'SC'** at the **Indian Space Research Organization (ISRO)**, I played a key role in **thermal instrumentation and control** for various satellite systems, including **Chandrayaan-2**. My work spanned **sensor integration, automation, and real-time data acquisition** to optimize satellite testing workflows.
+As a **Scientist/Engineer 'SC'** at the **Indian Space Research Organization (ISRO)**, I worked on **thermal instrumentation and control** for various satellite systems, including **Chandrayaan-2**, GSAT-9,11 and INSAT series. My work spanned **sensor integration and real-time data acquisition** to optimize and automate satellite testing.
 
 ## Key Contributions
 - **Led thermal instrumentation & control** for **13+ satellite systems**, ensuring precision in thermal analysis and validation.
 - **Developed a Python-based SCADA interface**, doubling test productivity and enabling **simultaneous satellite testing**.
-- **Created an optimal heater design software in python**, preventing burnout and **enhancing fault tolerance** in satellite subsystems.
-- **Automated satellite testing procedures**, significantly reducing manual effort and improving reliability.
+- **Created an optimal heater design software in python**, that completely eliminated saturation faults due to improper tuning and prevented heater burnout.
+- Developed methodologies for **in-situ weight-based heater-sensor mapping** based on the temperature rates which drastically minimized the lead time before the test start and automatically corrected for mapping errors during the tests.
 
-## Key Results
-- **Optimized real-time monitoring** of satellite thermal performance, improving test efficiency.
-- Developed a **custom SCADA system**, enabling remote control & monitoring for multiple satellites.
-- Enhanced **satellite heater fault detection**, preventing critical failures before launch.
 
 ## Technologies Used
-- **Control Systems & Instrumentation**
-- **SCADA Development (Python, LabVIEW)**
-- **Satellite Thermal Testing & Automation**
-- **Embedded Systems & Sensor Integration**
+- Instrumentation & Control Systems (PID, PI and Loop Shaping)
+- SCADA Systems Development (C, Python, LabView)
+- Test Automation
+- Embedded Systems & Sensor Integration
 
 ---

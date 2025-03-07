@@ -41,8 +41,8 @@ During my time as a **Research Engineer Intern** at **SC Solutions**, I worked o
 
 
 ## Technologies Used
-- Computer Vision (OpenCV, Image Processing)
-- Machine Learning (CNNs using PyTorch)
+- Computer Vision (OpenCV, Image Processing, 2D Filtering (Sobel Gradient, Edge Detection))
+- Machine Learning Implementations (PyTorch)
 - C++ (CMake, OpenCV, Pybind11)
 
 ---
