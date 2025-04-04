@@ -5,3 +5,5 @@ summary: "Developed a discrete switched nonlinear model that captures the measur
 image: "/assets/cummins/sys.png"
 permalink: /research/cummins_project/
 ---
+
+# Modelling and Aging Diagnostics for Diesel Engine After-treatment System
