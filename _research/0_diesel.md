@@ -6,6 +6,8 @@ image: "/assets/cummins/sys.png"
 permalink: /research/cummins_project/
 ---
 
+<img src="/assets/cummins/sys.png" width="700">
+
 ### Problem
 - Determine the catalyst aging in-situ from the truck data.
 
@@ -15,6 +17,7 @@ permalink: /research/cummins_project/
 ### Requirements:
 - Identifiability
 - Robustness of aging signatures and detection mechanisms
+
 
 ## Key Results
 
@@ -31,3 +34,41 @@ permalink: /research/cummins_project/
 ### Aging Signatures:
 - Saturated Catalyst System Parameters
 - Test statistic that has statistically different mean.
+
+
+## Key Learnings
+
+### Signal Processing and Estimation Theory:
+- Sum of Squares filtering
+- Kalman Filter
+- Statistical Detection Theory
+- Set Membership Filtering and Estimation
+
+### System Identification:
+- Recursive Least-squares
+- Persistence of Excitation (PE) and Parsimony
+- Closed-Loop System Identification
+
+### Dynamic Modelling:
+- Discrete Systems
+- Small Perturbation and Averaging in Nonlinear Systems
+- First Principles modelling
+- Uncertainty Modelling
+
+### Control Theory and Nonlinear Analysis:
+- Stability of switched systems
+- Handling parameter uncertainties
+
+
+## Tools
+
+### Programming Languages:
+- Python (Analysis, signal processing, optimization, plotting)
+- Matlab (System ID tool-box)
+- C++ (eigen, CMake, )
+- Convex Optimization
+
+
+### Industry Collaboration
+- Worked with the Aftertreatment systems Team at Cummins on this project with bi-weekly presentations and discussions.
+- Developed and submitted research proposals for the years 2024 and 2025 (≈120k total grant yearly)
