@@ -18,6 +18,7 @@ permalink: /research/cummins_project/
 - Identifiability
 - Robustness of aging signatures and detection mechanisms
 
+<img src="/assets/cummins/SCR-ASC_ModelReduction_horizontal.png" width="700">
 
 ## Key Results
 
@@ -26,10 +27,14 @@ permalink: /research/cummins_project/
 - Interplay between residence time and sampling
 - Catalyst Saturation and Desaturation
 
+<img src="/assets/cummins/automata.png" width="700">
+
 ### Parameter and State Estimation:
 - Nonlinear Model that is Linear in Parameters
 - Observer for catalyst storage
 - Saturated system identification using linear programming.
+
+<img src="/assets/cummins/aging.png" width="700">
 
 ### Aging Signatures:
 - Saturated Catalyst System Parameters
