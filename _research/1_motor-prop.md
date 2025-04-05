@@ -6,7 +6,7 @@ image: "/assets/motor-prop/motor-prop.png"
 permalink: /research/motor-prop/
 ---
 
-<img src="/assets/motor-prop/motor-prop.png" width="500">
+<img src="/assets/motor-prop/motor-prop.png" width="700">
 
 ## Objective
 - Improve the dynamic response of the actuator using angular velocity feedback.
