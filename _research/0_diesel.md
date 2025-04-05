@@ -71,9 +71,10 @@ permalink: /research/cummins_project/
 - Python (Analysis, signal processing, optimization, plotting)
 - Matlab (System ID tool-box)
 - C++ (eigen, CMake, )
-- Convex Optimization
+### Convex Optimization
+### Statistical Signal Processing: Estimation and Detection
 
 
-### Industry Collaboration
+## Industry Collaboration
 - Worked with the Aftertreatment systems Team at Cummins on this project with bi-weekly presentations and discussions.
 - Developed and submitted research proposals for the years 2024 and 2025 (≈120k total grant yearly)
