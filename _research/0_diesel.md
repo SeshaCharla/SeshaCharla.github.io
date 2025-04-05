@@ -43,7 +43,7 @@ permalink: /research/cummins_project/
 
 ## Key Learnings
 
-### Signal Processing and Estimation Theory:
+### Statistical Signal Processing: Estimation and Detection
 - Sum of Squares filtering
 - Kalman Filter
 - Statistical Detection Theory
@@ -65,15 +65,12 @@ permalink: /research/cummins_project/
 - Handling parameter uncertainties
 
 
-## Tools
-
 ### Programming Languages:
 - Python (Analysis, signal processing, optimization, plotting)
 - Matlab (System ID tool-box)
 - C++ (eigen, CMake, )
-### Convex Optimization
-### Statistical Signal Processing: Estimation and Detection
 
+### Convex Optimization
 
 ## Industry Collaboration
 - Worked with the Aftertreatment systems Team at Cummins on this project with bi-weekly presentations and discussions.
