@@ -12,7 +12,7 @@ permalink: /research/rcp/
 - Design a series of simplices that correspond to affine feedback controllers that guarantee safety using restricted facets under polytopic uncertainties and constraints.
 
 ## Theory and Demonstration
-<iframe src="/assets/RCP/theroy.pdf" width="1000px" height="800px"></iframe>
+<iframe src="/assets/RCP/theory.pdf" width="1000px" height="800px"></iframe>
 
 ## Key Learning and Tools
 - Convex optimization (Disciplined convex programming (CVX library)) and Linear Matrix Inequalities (LMIs).
