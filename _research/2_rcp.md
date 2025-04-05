@@ -5,3 +5,5 @@ summary: "Developed a simplex-chain generation algorithm which can be used for m
 image: "/assets/RCP/main_fig.png"
 permalink: /research/rcp/
 ---
+
+<img src="/assets/RCP/1D.gif" width="100">
