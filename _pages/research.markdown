@@ -5,6 +5,7 @@ permalink: /research/
 ---
 
 ---
+<br>
 
 [Google Scholar](https://scholar.google.com/citations?user=JfJxAvcAAAAJ)
 
