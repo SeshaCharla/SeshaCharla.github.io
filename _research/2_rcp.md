@@ -6,4 +6,7 @@ image: "/assets/RCP/main_fig.png"
 permalink: /research/rcp/
 ---
 
-<img src="/assets/RCP/1D.gif" width="100">
+<img src="/assets/RCP/1D.gif" width="300">
+
+## Problem
+- Design a series of simplices that correspond to affine feedback controllers that guarantee safety using restricted facets under polytopic uncertainties and constraints.
