@@ -21,7 +21,7 @@ location: Bengaluru, India
 As a **Scientist/Engineer 'SC'** at the **Indian Space Research Organization (ISRO)**, I worked on **thermal instrumentation and control** for various satellite systems, including **Chandrayaan-2**, GSAT-9,11 and INSAT series. My work spanned **sensor integration and real-time data acquisition** to optimize and automate satellite testing.
 
 ## Key Contributions
-- **Led thermal instrumentation & control** for **13+ satellite systems**, ensuring precision in thermal analysis and validation.
+- **Led thermal instrumentation & control** for **15 satellite systems**, ensuring precision in thermal analysis and validation.
 - **Developed a Python-based SCADA interface**, doubling test productivity and enabling **simultaneous satellite testing**.
 - **Created an optimal heater design software in python**, that completely eliminated saturation faults due to improper tuning and prevented heater burnout.
 - Developed methodologies for **in-situ weight-based heater-sensor mapping** based on the temperature rates which drastically minimized the lead time before the test start and automatically corrected for mapping errors during the tests.
