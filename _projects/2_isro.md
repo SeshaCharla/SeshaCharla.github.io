@@ -25,11 +25,13 @@ As a **Scientist/Engineer 'SC'** at the **Indian Space Research Organization (IS
 - **Developed a Python-based SCADA interface**, doubling test productivity and enabling **simultaneous satellite testing**.
 - **Created an optimal heater design software in python**, that completely eliminated saturation faults due to improper tuning and prevented heater burnout.
 - Developed methodologies for **in-situ weight-based heater-sensor mapping** based on the temperature rates which drastically minimized the lead time before the test start and automatically corrected for mapping errors during the tests.
+- **Technology development program**: Demonstrated the use of the EPICS framework on a test setup as a proof of concept for a unified SCADA system for thermal control and sensing across all test chambers simultaneously during satellite testing.
 
 
 ## Technologies Used
 - Instrumentation & Control Systems (PID, PI and Loop Shaping)
 - SCADA Systems Development (C, Python, LabView)
+- EPICS Framework (Control Systems)
 - Test Automation
 - Embedded Systems & Sensor Integration
 
