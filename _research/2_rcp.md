@@ -14,6 +14,10 @@ permalink: /research/rcp/
 ## Theory and Demonstration
 <iframe src="/assets/RCP/theory.pdf" width="700px" height="450px"></iframe>
 
+### GitHub Repositories
+- 2D Demonstration: [2D_RCP_Simplex_Gen](https://github.com/SeshaCharla/2D_RCP_Simplex_Gen)
+- 3D Demonstration: [3D_RCP_Simplex_Gen](https://github.com/SeshaCharla/3D_RCP_Simplex_Gen)
+
 ## Key Learning and Tools
 - Convex optimization (Disciplined convex programming (CVX library)) and Linear Matrix Inequalities (LMIs).
 - Computational Geometry for defining constraints for convex optimization problem (CDD library in Python)

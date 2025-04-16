@@ -17,6 +17,7 @@ permalink: /research/motor-prop/
 - Identified and corrected for the input uncertainty due to unknown nonlinear filter in the ESC.
 - The real-time parameter estimates converge to the actual values under PE.
 - Proposed a fault detection and isolation framework based on the change in parameter estimates
+- LabView Code Repository:[MotorPropIO-Labview](https://github.com/SeshaCharla/MotorPropIO-Labview)
 
 <img src="/assets/motor-prop/param_est.png" width="700">
 

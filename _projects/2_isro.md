@@ -22,8 +22,8 @@ As a **Scientist/Engineer 'SC'** at the **Indian Space Research Organization (IS
 
 ## Key Contributions
 - **Led thermal instrumentation & control** for **15 satellite systems**, ensuring precision in thermal analysis and validation.
-- **Developed a Python-based SCADA interface**, doubling test productivity and enabling **simultaneous satellite testing**.
-- **Created an optimal heater design software in python**, that completely eliminated saturation faults due to improper tuning and prevented heater burnout.
+- **Developed a Python-based SCADA interface**, doubling test productivity and enabling **simultaneous satellite testing**. Github Repository: [mgco](https://github.com/SeshaCharla/mgco)
+- **Created an optimal heater design software in python**, that completely eliminated saturation faults due to improper tuning and prevented heater burnout. Github Repository: [htrdsgn](https://github.com/SeshaCharla/htrdsgn)
 - Developed methodologies for **in-situ weight-based heater-sensor mapping** based on the temperature rates which drastically minimized the lead time before the test start and automatically corrected for mapping errors during the tests.
 - **Technology development program**: Demonstrated the use of the EPICS framework on a test setup as a proof of concept for a unified SCADA system for thermal control and sensing across all test chambers simultaneously during satellite testing.
 
