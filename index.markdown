@@ -14,4 +14,4 @@ With hands-on experience at SC Solutions, Virgin Hyperloop, and ISRO, I have dev
 <li> Designing supervisory control strategies to optimize electromagnetic engine efficiency at Virgin Hyperloop. </li>
 <li>Leading thermal control instrumentation for satellite testing at ISRO, including Chandrayaan-2’s lander, orbiter, and rover. </li>
 </ul>
-I am passionate about bridging advanced control techniques with real-world applications, leveraging convex optimization, reinforcement learning, and system identification to solve complex engineering challenges.
+I am passionate about bridging advanced control and estimation techniques with real-world applications to solve complex engineering problems.
