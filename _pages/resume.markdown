@@ -4,6 +4,6 @@ title: Resume
 permalink: /resume/
 ---
 
-<iframe src="/assets/SeshaCharla_resume.pdf" width="1000px" height="800px"></iframe>
+<iframe src="/assets/SeshaCharla_resume.pdf" width="800px" height="900px"></iframe>
 
 ---
