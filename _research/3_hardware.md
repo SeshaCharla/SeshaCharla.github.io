@@ -12,6 +12,7 @@ Taught C, Assembly, and LabView programming for closed-loop control of mechanica
 
 ### Course Development
 - Developed coursework on parameter estimation & robust control for a refrigeration system (for Microprocessor and Electromechanical Systems Course (ME 586)) using STM32 Discovery board.
+<iframe src="/assets/TA/refrig_ctrl.pdf" width="800px" height="600px"></iframe>
 
 ### Skills
 - C
