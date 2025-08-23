@@ -2,7 +2,7 @@
 layout: page
 title: "Test Instrumentation and Controls Engineer - ISRO"
 summary: "Led thermal instrumentation and control for satellite systems, including Chandrayaan-2, optimizing testing workflows and automation."
-# image: "/assets/images/isro_project.png"  # Ensure this image exists or remove this line
+image: "/assets/isro/tvac.jpg"  # Ensure this image exists or remove this line
 permalink: /projects/isro-experience/
 start_date: 2016-07-01
 end_date: 2019-07-01
@@ -16,6 +16,8 @@ location: Bengaluru, India
  **Duration:** {{ page.start_date | date: "%B %Y" }} – {{ page.end_date | date: "%B %Y" }}
 
  **Location:** {{ page.location }}
+
+<img src="/assets/isro/tvac.jpg" width="700">
 
 ## Overview
 As a **Scientist/Engineer 'SC'** at the **Indian Space Research Organization (ISRO)**, I worked on **thermal instrumentation and control** for various satellite systems, including **Chandrayaan-2**, GSAT-9,11 and INSAT series. My work spanned **sensor integration and real-time data acquisition** to optimize and automate satellite testing.
