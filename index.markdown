@@ -4,14 +4,20 @@
 
 layout: home
 ---
+I am Sesha N. Charla, a PhD candidate in Mechanical Engineering at Purdue University specializing in estimation theory, adaptive robust control, and fault diagnosis for nonlinear systems under uncertainty. My research bridges theoretical advances in control and estimation with practical engineering applications across aerospace, automotive, and medical robotics.
 
-I am a PhD candidate in Mechanical Engineering at Purdue University, specializing in estimation theory, adaptive robust control, and fault diagnosis for nonlinear systems under uncertainty. My research and industry experience span vehicle dynamics, multivariable control, system identification, and computer vision-based estimation.
-
-With hands-on experience at SC Solutions, Virgin Hyperloop, and ISRO, I have developed and implemented control algorithms, real-time estimation models, and robust diagnostic frameworks across automotive, aerospace, and industrial applications. My work includes:
+I have contributed to a range of projects, including:
 
 <ul>
-<li> Developing state and parameter estimation algorithms for vision-based fat estimation in the industrial food processing systems.</li>
-<li> Designing supervisory control strategies to optimize electromagnetic engine efficiency at Virgin Hyperloop. </li>
-<li>Leading thermal control instrumentation for satellite testing at ISRO, including Chandrayaan-2’s lander, orbiter, and rover. </li>
+<li> Medical robotics (Intuitive Surgical): Developed and validated fault diagnostics for motor haptics, leading to a new invention disclosure and sensor specification improvements.
+
+<li> Transportation (Virgin Hyperloop): Designed supervisory control strategies to improve electromagnetic engine efficiency and stability.
+
+<li> Industrial automation (SC Solutions, USDA project): Built computer vision-based estimation models for food processing systems.
+
+<li> Space systems (ISRO): Led thermal control instrumentation for multiple satellites, including Chandrayaan-2 orbiter, lander, and rover.
 </ul>
-I am passionate about bridging advanced control and estimation techniques with real-world applications to solve complex engineering problems.
+
+My ongoing research explores fault diagnostics in diesel engine aftertreatment systems.
+
+I am passionate about creating reliable, adaptive, and safe systems through advanced estimation and control techniques, and I look forward to contributing these skills to solving real-world problems in industry.
