@@ -9,6 +9,7 @@ I am Sesha N. Charla, a PhD candidate in Mechanical Engineering at Purdue Univer
 I have contributed to a range of projects, including:
 
 <ul>
+
 <li> Medical robotics (Intuitive Surgical): Developed and validated fault diagnostics for motor haptics, leading to a new invention disclosure and sensor specification improvements.
 
 <li> Transportation (Virgin Hyperloop): Designed supervisory control strategies to improve electromagnetic engine efficiency and stability.
@@ -16,6 +17,7 @@ I have contributed to a range of projects, including:
 <li> Industrial automation (SC Solutions, USDA project): Built computer vision-based estimation models for food processing systems.
 
 <li> Space systems (ISRO): Led thermal control instrumentation for multiple satellites, including Chandrayaan-2 orbiter, lander, and rover.
+
 </ul>
 
 My ongoing research explores fault diagnostics in diesel engine aftertreatment systems.
