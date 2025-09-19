@@ -36,4 +36,6 @@ As a Scientist/Engineer 'SC' at the Indian Space Research Organization (ISRO), I
 - Test Automation
 - Embedded Systems & Sensor Integration
 - Leading a team of 4 engineering and 3 technicians for deploying and running the test setup (newly developed) for Chandrayan-2 mission.
+
+
 ---
