@@ -15,20 +15,15 @@ location: Sunnyvale, California
 
 <img src="/assets/intuitive/da-vinci-5-surgeon-control2.jpeg" width="700">
 
-## Overview
+## Overview and Contributions
 Worked on fault diagnostics for motors in haptics of surgeon side console of DV-5 resulting in a new invention disclosure.
 - Implemented tools for detecting the new fault in the motors from the field data.
 - Developed and experimentally validated the analytical model of the motor operation under the newly diagnosed fault.
-- Developed the relationship between the residual and torque loss due to fault for validating thresholds.
+- Developed the relationship between the residual and torque loss due to the new fault for validating thresholds.
 
 Also, proposed a spec change for hall sensors in a motor by validating it against motor safety algorithms and other specs on the same sensors that doubled the manufacturing process capability metric.
 
-## Key Results
-- Analytical model of the motor operation under fault that is validated using experimental data.
-- A framework to determine the thresholds for residual to detect the specific fault.
-- A spec proposal for improving manufacturing process capability metric.
-
-## Technologies Used
+## Skills and Experience
 - Hardware in loop (HIL) Software in loop (SIL) testing
 - MATLAB (Object Oriented Programming)
 - C
