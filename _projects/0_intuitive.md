@@ -29,8 +29,10 @@ Also, proposed a spec change for hall sensors in a motor by validating it agains
 - A spec proposal for improving manufacturing process capability metric.
 
 ## Technologies Used
-- Hardware in loop (HIL) testing
+- Hardware in loop (HIL) Software in loop (SIL) testing
 - MATLAB (Object Oriented Programming)
 - C
+- Bazel Build System
 - SQL
 - Python
+- Docker
