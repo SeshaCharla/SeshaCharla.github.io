@@ -36,4 +36,5 @@ Worked on a USDA-funded project focused on automating fat estimation in meat pro
 - Machine Learning Implementations (PyTorch)
 - C++ (OpenCV, Pybind11 libraries)
 - CMake Build Systems
+- Git
 ---

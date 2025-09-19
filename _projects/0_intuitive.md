@@ -31,3 +31,4 @@ Also, proposed a spec change for hall sensors in a motor by validating it agains
 - SQL
 - Python
 - Docker
+- Git
