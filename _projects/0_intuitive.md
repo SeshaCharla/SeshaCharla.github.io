@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "System Analyst (Robotic Algorithms and Controls) Intern -- Intutive Surgical"
+title: "System Analyst (Robotic Algorithms and Controls) Intern -- Intuitive Surgical"
 summary: "Worked on fault diagnostics for motors in haptics of surgeon side console of the newly released da Vinci 5 robot, resulting in a new invention disclosure"
 image: "/assets/intuitive/Intuitive-Da-Vinci-5-surgeon-console-close-up-768x499.jpg"  # Add a relevant image if available
 permalink: /projects/intuitive-internship/
