@@ -13,21 +13,16 @@ location: Los Angeles, California
 
 **Location:** {{ page.location }}
 
-## Overview
-During my internship at **Virgin Hyperloop**, I worked on the **Cargo Pilot Project**, focusing on **levitation and guidance control**. My contributions included:
-- Designing a **supervisory control** strategy to minimize force mismatches across bogies.
-- Refining the **electromagnetic engine control architecture** using **MATLAB/Simulink**.
-- Developing a **MIMO model** for the guidance bogie engine assembly and analyzing its robust stability.
-
-## Key Results
-- Improved **EM engine efficiency** through control optimizations and introduction of supervisory control.
-- Demonstrated limitations of **linear control strategies** for the EM engine control system.
-- Created robust stability and performance models to analyze effects of **suspension parameters**.
+## Overview and Contributions
+Worked on the Cargo Pilot Project, focusing on levitation and guidance control. My contributions included:
+- Designing a supervisory control strategy to minimize force mismatches across bogies.
+- Refining the electromagnetic engine control architecture using MATLAB/Simulink and demonstrating limitations of linear control strategies for the EM engine control system.
+- Developing a MIMO model for the guidance bogie engine assembly and analyzing its robust stability with respect to the mechanical suspension parameters.
 
 ## Full Presentation
 <iframe src="/assets/hyperloop/MotionControlInternFinalPresentation_Sesha.pdf" width="100%" height="600px"></iframe>
 
-## Technologies Used
+## Skills and Experience
 - MATLAB/Simulink (Data Dictionaries)
 - Using look-up tables and curve fitting to approximate highly nonlinear dynamics under restrictive state and frequency constraints.
 - Linear Robust Control and MIMO systems analysis
