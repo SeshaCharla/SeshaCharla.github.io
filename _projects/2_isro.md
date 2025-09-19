@@ -9,9 +9,9 @@ end_date: 2019-07-01
 location: Bengaluru, India
 ---
 
-# Test Instrumentation and Controls Engineer
-# Thermal Systems Group
-# U.R. Rao Satellite Center, Indian Space Research Organization
+### Test Instrumentation and Controls Engineer
+### Thermal Systems Group
+### U.R. Rao Satellite Center, Indian Space Research Organization
 
  **Duration:** {{ page.start_date | date: "%B %Y" }} – {{ page.end_date | date: "%B %Y" }}
 
